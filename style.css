@@ -1,0 +1,58 @@
+body{
+   
+    margin: 0%;
+}
+.tab{
+    text-align: right;
+    tab-size: 32;
+
+}
+section{
+    height: 700px;
+}
+.top-part{
+    background-color: rgb(224, 35, 35);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.middle-part{
+    background-color: rgb(9, 221, 97);
+}
+.half-width img{
+    width: 100%;
+    height: 100%;
+}
+
+.name-color{
+    color: rgb(206, 41, 19);
+}
+.button{
+    text-decoration: none;
+    padding: 5px 10px;
+    background-image: linear-gradient(40deg, lightsalmon, tomato );
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.project{
+    text-align: center;
+    font-weight: 800;
+}
+
+.three-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%%;
+}
+.three-width img{
+    width: 100%;
+}
+
